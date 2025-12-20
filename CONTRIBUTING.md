@@ -41,8 +41,8 @@ This repository is part of OpenCode '25, where you can earn points by completing
 2. **Clone your fork locally:**
     
     ```bash
-    git clone https://github.com/your-username/DhamaalEffeKa.gitcd DhamaalEffeKa
-    
+    git clone https://github.com/your-username/DhamaalEffeKa.git
+    cd DhamaalEffeKa
     ```
     
 
